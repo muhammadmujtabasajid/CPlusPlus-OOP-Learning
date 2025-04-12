@@ -32,14 +32,14 @@ Class-based design
 
 Object counters
 
-🧪 Sample Output
+🧪 Output
 
 
 Car 1 created
 Car 2 created
 Car 3 created
 Total cars: 3
-🧠 What You Learn
+🧠 I Learned
 How static variables work in C++
 
 Why they're useful for counting shared data
