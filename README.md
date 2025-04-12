@@ -45,3 +45,5 @@ How static variables work in C++
 Why they're useful for counting shared data
 
 Clean object-oriented structuring
+
+
